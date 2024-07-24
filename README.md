@@ -1,7 +1,7 @@
 ## Quantum Monte Carlo for Option Pricing
 
 ### Project Overview
-This project explores the application of quantum computing to financial engineering by implementing a quantum Monte Carlo simulation for option pricing. It compares the results of classical and quantum Monte Carlo methods for pricing European call options.
+This project explores the application of quantum computing to financial engineering by implementing a quantum Monte Carlo simulation for option pricing. It compares the results of classical and quantum Monte Carlo methods for pricing call options.
 
 ### Goals
 * Understand the fundamentals of option pricing and Monte Carlo simulation.
